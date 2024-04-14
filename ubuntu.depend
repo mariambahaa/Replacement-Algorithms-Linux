@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641911415 source:d:\os\lab4\ubuntu\main.cpp
+	<bits/stdc++.h>
+	<unordered_set>
+	<unordered_map>
+
